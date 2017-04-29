@@ -89,7 +89,7 @@ class CalculatorBrain {
             
         }
     }
-
+    
     func clean(){
         accumulator = 0.0
         pending = nil
